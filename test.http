@@ -7,6 +7,6 @@ Content-Type: application/json
 {
     "title": "Song Title",
     "artist": "Moata",
-    "releaseDate": "2024-06-01T00:00:00.000Z"
-    
+    "releaseDate": "2024-06-01T00:00:00.000Z",
+    "duration": 180
 }
